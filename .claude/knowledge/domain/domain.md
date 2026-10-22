@@ -15,8 +15,8 @@ Manifest của knowledge base sản phẩm. Engine đọc file này ở đầu m
 - Nhịp sprint (độ dài, ngày refinement, ngày planning):
 
 ## 2. Nguồn yêu cầu và đồng thuận
-- Cách làm việc với tài liệu của PO (repo có quyền push, repo chỉ đọc, không có repo; `USER-GUIDE.md` mục A4):
-- Repo của PO và đường dẫn intent:
+- Cách làm việc với tài liệu của PO (repo có quyền push, repo chỉ đọc, không có repo; `USER-GUIDE.md` mục A4): repo git, Designer có quyền push
+- Repo của PO và đường dẫn intent: `git@github.com:buidhui/uplnd_po_workflow.git` (PO-Workflow); intent ở `intents/<mã intent>/`, file thiết kế UX ở `intents/<mã intent>/inception/ux-design/ux-design.md` (stage Design Alignment); danh sách intent ở `intents/INDEX.md`
 - Tài liệu đầu vào chính (PRD, user stories) và mức hoàn thiện cần có trước khi bắt đầu:
 - Template file thiết kế UX của PO và vị trí đặt file:
 - Quy ước commit, branch, ai được sửa file nào:
